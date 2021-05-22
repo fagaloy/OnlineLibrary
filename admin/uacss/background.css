@@ -1,0 +1,17 @@
+body {
+	font-size: 80%;
+background-image: url("images/library3.jpg");
+ background-color: #cccccc;
+}
+header {
+	font-size: 200%;
+	width: 90%;
+	margin: 50px auto 0px;
+	color: white;
+	background: rgba(255,100,100,0.5);
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
